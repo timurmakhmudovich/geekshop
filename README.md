@@ -1,1 +1,2 @@
 # geekshop
+Simple online store
